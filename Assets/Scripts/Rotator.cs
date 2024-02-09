@@ -11,7 +11,7 @@ public class Rotator : MonoBehaviour
     void Start()
     {
         
-    }d
+    }
 
     // Update is called once per frame
     void Update()
